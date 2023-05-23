@@ -7,6 +7,7 @@
 - [Test Scenarios](#Test-Scenarios)
 - [Test Case](#Test-Case)
 - [Bug Reports](#Bug-Reports)
+- [Block Diagram](#Block-Diagram)
 
 
 ## Test Scenarios
@@ -63,4 +64,18 @@ In the created project in exel  we will find written Test Case for:
        - Cart - Unable to remove item from cart
    * Screen recordings of test runs
    * Selenium IDE file to open the test
-    
+
+
+## Block Diagram
+
+[Tested site](https://skleptest.pl/) - The page on which the Test Scenarios are based.
+
+### Block Diagram created in Figma
+
+ * View all -> [Block Diagram on google drive](https://drive.google.com/file/d/1eplCfTksKztKqxXXAj8WVXolJYnW1T_z/view?usp=sharing)
+ 
+ The link contains Block Diagram for:
+  * Purchase
+  * Login/Register
+  
+
