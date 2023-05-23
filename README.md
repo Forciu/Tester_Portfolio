@@ -16,7 +16,7 @@
 ### Test scenarios created on the Trello platform
 
   * View -> [Test Scenarios Trello](https://trello.com/invite/b/oD9Efh1M/ATTI2e495bd98a904a292947c3b9233007281D1487F3/tester-portfolio)
-  * View -> [Test Scenarios SS-Trello](https://drive.google.com/drive/folders/104Q1kiYrXtRvZ22Tl04QQFnQQGYCotr0?usp=sharing)
+  * View -> [Test Scenarios SS-Trello on google drive](https://drive.google.com/drive/folders/104Q1kiYrXtRvZ22Tl04QQFnQQGYCotr0?usp=sharing)
     
 In the created project in Trello we will find written Test Scenarios for:
 
@@ -37,7 +37,7 @@ In the created project in Trello we will find written Test Scenarios for:
 
 ### Test Case created in exel
 
-  * View -> [Test Case](https://docs.google.com/spreadsheets/d/1ePSIMLyTIC4nmwZJsaL8uBD6Q0nu8bz9L8HEUCzP_VU/edit?usp=sharing)
+  * View -> [Test Case on spreadsheets](https://docs.google.com/spreadsheets/d/1ePSIMLyTIC4nmwZJsaL8uBD6Q0nu8bz9L8HEUCzP_VU/edit?usp=sharing)
 
 In the created project in exel  we will find written Test Case for:
 
@@ -54,7 +54,7 @@ In the created project in exel  we will find written Test Case for:
 
 ### Bug Reports created on the Jira platform
   
-  * View all -> [Bug Reports](https://drive.google.com/drive/folders/1ELFwivy1U2b_Tn5VQqErT9K6Mw_tHeJm?usp=sharing)
+  * View all -> [Bug Reports on google drive](https://drive.google.com/drive/folders/1ELFwivy1U2b_Tn5VQqErT9K6Mw_tHeJm?usp=sharing)
    
    The link contains:
    * Screenshot from Jira 
