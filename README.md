@@ -54,7 +54,7 @@ In the created project in exel  we will find written Test Case for:
 
 ### Bug Reports created on the Jira platform
   
-  * View all -> [Bug Reports on google drive](https://drive.google.com/drive/folders/1ELFwivy1U2b_Tn5VQqErT9K6Mw_tHeJm?usp=sharing)
+  * View all -> [Bug Reports on google drive](https://drive.google.com/drive/folders/1uuKTU3-YcrMwNW7I1PRrZk5FYh-dEq74?usp=sharing)
    
    The link contains:
    * Screenshot from Jira 
