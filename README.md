@@ -2,12 +2,11 @@
 
 # This project is an example of my work as a Software Tester
 
+## Contents
+
 - [Test Scenarios](#Test-Scenarios)
 - [Test Case](#Test-Case)
 - [Bug Reports](#Bug-Reports)
-
-
-
 
 
 ## Test Scenarios
@@ -31,9 +30,6 @@ In the created project in Trello we will find written Test Scenarios for:
   * Additional functionalities
 
 
-
-
-
 ## Test Case
 
 [Tested site](https://skleptest.pl/) - The page on which the Test Case are based.
@@ -50,10 +46,7 @@ In the created project in exel  we will find written Test Case for:
   * Test_Contact -> The user sent a contact message with the specified data.
   * Test_Blog -> The user adds comment to blog of interest.
   
-  
-  
-  
-  
+    
 ## Bug Reports
 
 [Tested site](https://skleptest.pl/) - The page on which the Test Scenarios are based.
