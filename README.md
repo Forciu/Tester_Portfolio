@@ -15,8 +15,9 @@
 
 ### Test scenarios created on the Trello platform
 
-  * View -> [Test Scenarios](https://trello.com/invite/b/oD9Efh1M/ATTI2e495bd98a904a292947c3b9233007281D1487F3/tester-portfolio)
-  
+  * View -> [Test Scenarios Trello](https://trello.com/invite/b/oD9Efh1M/ATTI2e495bd98a904a292947c3b9233007281D1487F3/tester-portfolio)
+  * View -> [Test Scenarios SS-Trello](https://drive.google.com/drive/folders/104Q1kiYrXtRvZ22Tl04QQFnQQGYCotr0?usp=sharing)
+    
 In the created project in Trello we will find written Test Scenarios for:
 
   * Sign-Up
