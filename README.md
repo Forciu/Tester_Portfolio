@@ -56,10 +56,10 @@ In the created project in exel  we will find written Test Case for:
   * View all -> [Bug Reports](https://drive.google.com/drive/folders/1ELFwivy1U2b_Tn5VQqErT9K6Mw_tHeJm?usp=sharing)
    
    The link contains:
-      * Screenshot from Jira 
+   * Screenshot from Jira 
        - My cart - The price of products in the cart does not update automatically
        - Contact - Unable to send a message 
        - Cart - Unable to remove item from cart
-      * Screen recordings of test runs
-      * Selenium IDE file to open the test
+   * Screen recordings of test runs
+   * Selenium IDE file to open the test
     
