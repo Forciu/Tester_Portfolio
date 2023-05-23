@@ -3,7 +3,7 @@
 # This project is an example of my work as a Software Tester
 
 ## Contents
- <h3>* My works</h3>
+ * My works
      - [Test Scenarios](#Test-Scenarios)
      - [Test Case](#Test-Case)
      - [Bug Reports](#Bug-Reports)
