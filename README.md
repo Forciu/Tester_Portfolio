@@ -54,7 +54,7 @@ In the created project in exel  we will find written Test Case for:
     
 ## Bug Reports
 
-[Tested site](https://skleptest.pl/) - The page on which the Test Scenarios are based.
+[Tested site](https://skleptest.pl/) - The page on which the Bug Reports are based.
 
 ### Bug Reports created on the Jira platform
   
@@ -71,7 +71,7 @@ In the created project in exel  we will find written Test Case for:
 
 ## Block Diagram
 
-[Tested site](https://skleptest.pl/) - The page on which the Test Scenarios are based.
+[Tested site](https://skleptest.pl/) - The page on which the Block Diagram are based.
 
 ### Block Diagram created in Figma
 
