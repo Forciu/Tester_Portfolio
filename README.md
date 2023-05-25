@@ -69,7 +69,7 @@ In the created project in exel  we will find written Test Case for:
    * Selenium IDE file to open the test
 
 
-## Block Diagram
+## Block Diagram / Flowchart
 
 [Tested site](https://skleptest.pl/) - The page on which the Block Diagram are based.
 
