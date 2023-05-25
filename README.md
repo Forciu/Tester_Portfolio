@@ -7,7 +7,7 @@
      - [Test Scenarios](#Test-Scenarios)
      - [Test Case](#Test-Case)
      - [Bug Reports](#Bug-Reports)
-     - [Block Diagram](#Block-Diagram)
+     - [Block Diagram / Flowchart](#Block-Diagram)
 
 
 # My works
@@ -77,7 +77,7 @@ In the created project in exel  we will find written Test Case for:
 
  * View all -> [Block Diagram on google drive](https://drive.google.com/file/d/1eplCfTksKztKqxXXAj8WVXolJYnW1T_z/view?usp=sharing)
  
- The link contains Block Diagram for:
+ The link contains a flowchart of function usage paths for:
   * Purchase
   * Login/Register
   
